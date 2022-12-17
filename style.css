@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+    margin-left: 5px;
+    font-family: roboto;
+
+}
+
+.emailClass{
+    margin-top:30px;
+    margin-bottom:0;
+    font-family:Arial;
+}
+
+#email{
+    width:400px;
+    font-size:15px;
+    padding:5px;
+    border:2px solid gray;
+    border-radius:5px;
+    margin-top:10px;
+}
+
+.passClass{
+    margin-top:50px;
+;
+    font-family:Arial;
+}
+#pwd{
+    width:400px;
+    font-size:15px;
+    padding:5px;
+    border:2px solid gray;
+    border-radius:5px;
+    margin-top:10px;
+       
+}
+.errmsg{
+    margin-left:15px;
+}
+#btn{
+    margin-top: 50px;
+    margin-left:12px;
+    background:white;
+    font-size:15px;
+    font-family:Arial;
+    width:200px;
+    padding:5px 12px;
+    border-radius:6px;
+
+
+}
